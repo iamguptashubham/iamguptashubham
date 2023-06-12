@@ -42,7 +42,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react, aws,bootstrap,c,cpp,css,discord,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,redux,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,react,aws,bootstrap,c,cpp,css,discord,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,redux,vscode" />
   </a>
 </p>
 
